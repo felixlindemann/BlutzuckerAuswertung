@@ -1,0 +1,13 @@
+Package: BlutzuckerAuswertung
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2015-04-28
+Author: Felix Lindemann
+Maintainer: Felix Lindemann <lindemann.felix@t-online.de>
+Description: More about what it does (maybe more than one line)
+License: MIT
+Imports:
+  lubridate,tikzDevice,Cairo
+Depends:
+  lubridate,tikzDevice,Cairo
